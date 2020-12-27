@@ -1,0 +1,8 @@
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\obj\Debug\SManagement_ElegantWebApp.csprojResolveAssemblyReference.cache
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\bin\itextsharp.dll
+D:\SManagement_ElegantWebApp\SManagement_ElegantWebApp\SManagementWebApp\bin\itextsharp.xml

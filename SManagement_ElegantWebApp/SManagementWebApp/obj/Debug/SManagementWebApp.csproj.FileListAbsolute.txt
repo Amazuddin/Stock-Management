@@ -1,0 +1,30 @@
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+E:\BITM\FirstProject\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+C:\Users\User\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+C:\Users\Refat\Desktop\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+C:\Users\User\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll.config
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.dll
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\bin\SManagementWebApp.pdb
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.dll
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.pdb
+C:\Users\Refat\Desktop\New folder\SManagementWebApp\SManagementWebApp\obj\Debug\SManagementWebApp.csprojResolveAssemblyReference.cache

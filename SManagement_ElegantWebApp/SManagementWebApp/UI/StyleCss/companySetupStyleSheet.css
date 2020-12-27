@@ -1,0 +1,139 @@
+﻿.Bbody {
+    background-color: #acc2dc1c;
+}
+
+.navdesign {
+    margin-top: 0px;
+    height: 80px;
+}
+
+h1 {
+    margin-top: 60px;
+    margin-left: 35px;
+}
+
+li {
+    padding-right: 10px;
+}
+
+#nameTextBox {
+    margin-left: 20px;
+    width: 255px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+#saveButton {
+    margin-left: 180px;
+    margin-top: 10px;
+    width: 130px;
+    height: 40px;
+    background-color: #c2c2f7;
+}
+
+    #saveButton:hover {
+        background-color: #677a90;
+    }
+
+.jumbotron {
+    margin-top: 30px;
+    width: 500px;
+    width: 100%;
+}
+
+#warningLabel {
+    color: #4a0101;
+    padding: 15px;
+    background-color: #c4c4c5;
+    border-radius: 10px;
+}
+
+#companyNameGridView {
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 380px;
+}
+/*SaveButton*/
+#saveButton {
+    margin-left: 340px;
+    margin-top: 10px;
+    width: 130px;
+    height: 40px;
+    background-color: #c2c2f7;
+}
+#saveButton:hover {
+    background-color: #677a90;
+}
+
+/*Row-Column*/
+.row{
+    margin-bottom:-30px;
+}
+.ctlabel{
+    float:right;
+    margin-left:-50px;
+    text-align: right;
+}
+.fld{
+    margin-left: -50px;
+}
+/*footer*/
+#footer-design {
+    margin-top: 20px;
+}
+
+.footer-top {
+    background: #1c1d27;
+}
+
+.footer-social-icons {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+    .footer-social-icons ul {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+        .footer-social-icons ul li {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            margin: 9px 4px;
+            border-radius: 100%;
+            background: #55555a;
+        }
+
+            .footer-social-icons ul li a {
+                color: white;
+                font-size: 25px;
+                text-decoration: none;
+                outline: none;
+                padding-left: 10px;
+            }
+
+                .footer-social-icons ul li a i {
+                    line-height: 52px;
+                    color: #b8b6ff;
+                }
+
+.fh {
+    color: #da696a;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.ft {
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.footer-social-icons ul li:hover {
+    background-color: #808080;
+}

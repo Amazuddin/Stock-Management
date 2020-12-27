@@ -1,0 +1,144 @@
+﻿.gbody {
+    background-color: #acc2dc1c;
+}
+.navdesign {
+    margin-top: 0px;
+    height: 80px;
+}
+li {
+    padding-right: 10px;
+}
+#viewSalesGridView{
+    width:600px;
+}
+.mLabel {
+    color: #4a0101;
+    padding: 15px;
+    background-color: #c4c4c5;
+    border-radius: 10px;
+}
+#pdfButton {
+    margin-left: 500px;
+     margin-top: 10px;
+    width: 130px;
+    height: 40px;
+    background-color:#2aa269;
+    color: white;
+  
+}
+#pdfButton:hover {
+    background-color: #04790b;
+}
+/*Form*/
+
+form {
+    margin-top: 50px;
+}
+h1 {
+    margin-top: 60px;
+    margin-left: 35px;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    width: 500px;
+    width: 100%;
+}
+/*Row-Column*/
+.row{
+    margin-bottom:-30px;
+}
+.ctlabel{
+    float:right;
+    margin-left:-50px;
+    text-align: right;
+}
+.fld{
+    margin-left: -50px;
+}
+
+
+/*textboxdate*/
+#fromDateTextBox {
+    margin-left: 30px;
+    width: 270px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left:15px;
+}
+#toDateTextBox {
+    margin-left: 30px;
+    width: 270px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left:15px;
+}
+/*Searchbutton*/
+#searchButton {
+     margin-left: 353px;
+    margin-top: 10px;
+    width: 130px;
+    height: 40px;
+    background-color: #c2c2f7;
+}
+#searchButton:hover {
+    background-color: #677a90;
+}
+
+
+/*GridView*/
+#viewSalesBetweenTwoDatesGridView {
+    width: 600px;
+}
+
+/*footer*/
+#footer-design {
+    margin-top: 20px;
+}
+
+.footer-top{
+		background: #1c1d27;
+	}
+	.footer-social-icons{
+		width:100%;
+		height:auto;
+		margin:auto;
+	}
+	.footer-social-icons ul{
+		margin:0px;
+		padding:0px;
+		text-align:center;
+	}
+	.footer-social-icons ul li{
+		display: inline-block;
+		width:50px;
+		height:50px;
+		margin:9px 4px;
+		border-radius: 100%;
+		background: #55555a;
+	}
+	.footer-social-icons ul li a{
+		color:white;
+		font-size:25px;
+		text-decoration: none;
+		outline:none;
+	}
+	.footer-social-icons ul li a i{
+		line-height: 52px;
+        margin-left:11px;
+		color: #b8b6ff;
+	}
+	.fh{
+		color: #da696a;
+		text-align: center;
+		margin: 10px;
+		margin-bottom: 15px;
+	}
+    .ft{
+		color: white;
+		text-align: center;
+		padding-bottom: 10px;
+	}
+	.footer-social-icons ul li:hover{
+  background-color:#808080;
+}
